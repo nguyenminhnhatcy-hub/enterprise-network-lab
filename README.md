@@ -120,7 +120,7 @@ Corrected OSPF network statements and verified interface IP addresses.
 
 ## Files
 - Lab.pkt
-- topology.png
+- Topology.png
 
 ---
 
